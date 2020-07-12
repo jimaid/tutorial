@@ -1,2 +1,2 @@
 # tutorial
-foundations of Python's Pandas library
+my personal tutorials on the foundations of Python's Pandas library
