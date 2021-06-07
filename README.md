@@ -9,4 +9,4 @@ The jupyter environment is messed up.
 Still looking for clues on how to fix this problem.
 
 
-Saturday June 5. I have still not be able to fix this.
+Saturday June 5. I have still not be able to fix this...how? 
